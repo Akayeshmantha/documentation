@@ -1,4 +1,4 @@
-#Federation
+# Federation
 
 Enabling the federation allows for searching and doing business across separate NIMBLE instances.
 Apart from longer loading times due to the data aggregation this process is completely seemless and all features work as usual.

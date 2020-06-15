@@ -1,4 +1,4 @@
-#Swagger documentation
+# Swagger documentation
 
 Here is a collection of the links to the Swagger documentations of all Open APIs.
 

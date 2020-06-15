@@ -1,4 +1,4 @@
-#Shopping Cart
+# Shopping Cart
 
 The shopping cart allows for collecting multiple products/services from one or more seller(s) that can be negotiated / ordered at the same time.
 Terms can either be applied to the whole cart or adjusted piece by piece.

@@ -1,4 +1,4 @@
-#Dashboard
+# Dashboard
 
 The dashboard provides an overview of business processes, catalogue data and company analytics and consists of the following tabs (some of them may not be visible depending on the platform settings and user roles):
 

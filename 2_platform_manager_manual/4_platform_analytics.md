@@ -1,4 +1,4 @@
-#Platform Analytics
+# Platform Analytics
 
 Platform analytics are provided on log and database level.
 The log analytics are served via Kibana and allow for applying various timeframes and filters.

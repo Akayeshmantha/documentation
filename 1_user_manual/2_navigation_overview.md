@@ -1,4 +1,4 @@
-#Navigation Overview
+# Navigation Overview
 
 - Dashboard: Overview of business processes, catalogue data and company analytics
 - Publish: Allows for publishing products/services or logistics

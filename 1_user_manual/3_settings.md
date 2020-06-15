@@ -1,4 +1,4 @@
-#Settings
+# Settings
 
 Settings are available on the user level (User Profile) and company level (Company Settings).
 The user profile simply lists the user data and allows for changing the password or deleting the user.

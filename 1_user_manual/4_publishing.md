@@ -1,4 +1,4 @@
-#Publishing
+# Publishing
 
 One can publish a product/service or a logistics service.
 

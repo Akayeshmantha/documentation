@@ -1,4 +1,4 @@
-#Registration
+# Registration
 
 Before you can register a company, you must first register as a user on the NIMBLE platform.
 Simply follow the Registration link on the landing page, enter the required data and accept the end-user licence agreements.

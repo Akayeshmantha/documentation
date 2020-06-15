@@ -1,4 +1,4 @@
-#Company Management
+# Company Management
 
 The company management page lists the unverified and registered companies in two separate tabs.
 Both tabs offer the familiar search functionality and allow for listing the company details.
